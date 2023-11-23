@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 <h1 align="center">Hi 👋, I'm Simran Arora</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif")
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 - 🌱 I’m currently learning **Spring frameworks**
 
 - 💬 Ask me about **Java,Python,Angular,MySql**
