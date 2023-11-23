@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif)]
+<img  width="400" src="https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif">
 <h1 align="center">Hi 👋, I'm Simran Arora</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
