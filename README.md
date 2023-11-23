@@ -1,4 +1,4 @@
-[![MasterHead] ([https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif](https://www.bing.com/images/search?view=detailV2&ccid=P%2f4iadf5&id=DE6DAB7FFA09514B3D0E1EE325A46756E335E6DE&thid=OIP.P_4iadf5suGSKp0ogOkQjQAAAA&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f76%2fda%2f56%2f76da56c64e2ef8ac0f4372be663c76cd.gif&exph=300&expw=400&q=Developer+Animated+GIF&simid=608051744917696488&FORM=IRPRST&ck=7EBDDFE55398A866FFA2767E78191682&selectedIndex=28))
+[![MasterHead] https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif
 <h1 align="center">Hi 👋, I'm Simran Arora</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
