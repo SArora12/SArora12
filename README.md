@@ -2,9 +2,9 @@
 <h2>Hey!👋 I am Simran Arora.</h2>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-- 🌱 I’m currently learning Spring frameworks
+- 🌱 I’m currently learning System Designs
 
-- 💬 Ask me about **Java,Python,Angular,MySql**
+- 💬 Ask me about **Java,SpringBoot,ReactJs,MySql**
 
 - 📫 How to reach me **simran.arora1271@gmail.com**
 
